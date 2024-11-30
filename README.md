@@ -284,4 +284,4 @@ My name is Kirill and I learn git
 
 ## Hiiiii
 
-I`m Anastasiya from Kryvyi Rih
+I`m Anastasiya from Kryvyi Rih, happy to learn GIT
